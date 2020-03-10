@@ -1,0 +1,6 @@
+迴聲“＃chuanggaidaima” >> README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git remote add origin git@github.com：dongniao1588 / chuanggaidaima.git
+ git push -u origin master
